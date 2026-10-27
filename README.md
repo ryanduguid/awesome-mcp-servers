@@ -1,18 +1,14 @@
 # Awesome MCP Servers
 
-<div align="center">
-
-[![ไทย](https://img.shields.io/badge/Thai-Click-blue?style=flat&labelColor=000000&color=66023C)](README-th.md)
-[![English](https://img.shields.io/badge/English-Click-yellow?style=flat&labelColor=000000&color=66023C)](README.md)
-[![繁體中文](https://img.shields.io/badge/繁體中文-點擊查看-orange?style=flat&labelColor=000000&color=66023C)](README-zh_TW.md)
-[![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange?style=flat&labelColor=000000&color=66023C)](README-zh.md)
-[![日本語](https://img.shields.io/badge/日本語-クリック-青?style=flat&labelColor=000000&color=66023C)](README-ja.md)
-[![한국어](https://img.shields.io/badge/한국어-클릭-yellow?style=flat&labelColor=000000&color=66023C)](README-ko.md)
-[![Português Brasileiro](https://img.shields.io/badge/Português_Brasileiro-Clique-green?style=flat&labelColor=000000&color=66023C)](README-pt_BR.md)
-[![Discord](https://img.shields.io/discord/1312302100125843476?logo=discord&label=discord&style=flat&labelColor=000000&logoColor=E5E4E2&color=66023C)](https://glama.ai/mcp/discord)
-[![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/mcp?style=flat&logo=reddit&label=subreddit&labelColor=000000&logoColor=E5E4E2&color=66023C)](https://www.reddit.com/r/mcp/)
-
-</div>
+[![ไทย](https://img.shields.io/badge/Thai-Click-blue)](README-th.md)
+[![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
+[![繁體中文](https://img.shields.io/badge/繁體中文-點擊查看-orange)](README-zh_TW.md)
+[![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](README-zh.md)
+[![日本語](https://img.shields.io/badge/日本語-クリック-青)](README-ja.md)
+[![한국어](https://img.shields.io/badge/한국어-클릭-yellow)](README-ko.md)
+[![Português Brasileiro](https://img.shields.io/badge/Português_Brasileiro-Clique-green)](README-pt_BR.md)
+[![Discord](https://img.shields.io/discord/1312302100125843476?logo=discord&label=discord)](https://glama.ai/mcp/discord)
+[![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/mcp?style=flat&logo=reddit&label=subreddit)](https://www.reddit.com/r/mcp/)
 
 > [!IMPORTANT]
 > [ray.run](https://ray.run/) – from idea to a production-grade MCP server in under a minute! 🦜
